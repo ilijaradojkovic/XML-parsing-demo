@@ -1,0 +1,23 @@
+<student>
+    <name>Ilija</name>
+    <id>123124</id>
+    <adresa>
+        <ulica>Test</ulica>
+        <broj>2</broj>
+        <drzava>TEst</drzava>
+        <grad>Test</grad>
+    </adresa>
+    <posao>
+        <naziv>test</naziv>
+    </posao>
+    <predmeti>
+        <predmet>
+            <naziv>Matematika1</naziv>
+            <ocena>6</ocena>
+        </predmet>
+        <predmet>
+            <naziv>Matematika2</naziv>
+            <ocena>7</ocena>
+        </predmet>
+    </predmeti>
+</student>

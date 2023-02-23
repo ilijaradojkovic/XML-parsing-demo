@@ -1,0 +1,395 @@
+<stmtrslist>
+    <stmtrs>
+        <rstype>ibank.payment.stmtrs.past</rstype>
+        <status>
+            <code>0</code>
+            <severity>INFO</severity>
+            <details />
+        </status>
+        <curdef>RSD</curdef>
+        <acctid>160-0000000396462-07</acctid>
+        <stmtnumber>252</stmtnumber>
+        <ledgerbal>
+            <balamt>407598.91</balamt>
+            <dtasof>2022-12-12T00:00:00</dtasof>
+        </ledgerbal>
+        <availbal>
+            <balamt>331957.76</balamt>
+            <dtasof>2022-12-12T00:00:00</dtasof>
+        </availbal>
+        <reservedfunds>-75641.15</reservedfunds>
+        <trnlist count="11">
+            <stmttrn>
+                <trntype>ibank.payment.pp3</trntype>
+                <fitid>168CHGR22346004W(6478289837)</fitid>
+                <trnuid />
+                <benefit>debit</benefit>
+                <payeeinfo>
+                    <name>Banca Intesa AD Beograd</name>
+                    <city>Beograd</city>
+                </payeeinfo>
+                <payeeaccountinfo>
+                    <acctid>160-0000000090824-77</acctid>
+                    <bankid>160</bankid>
+                    <bankname>Banca Intesa ad Beograd</bankname>
+                </payeeaccountinfo>
+                <dtposted>2022-12-12T00:00:00</dtposted>
+                <trnamt>39.00</trnamt>
+                <purpose>Naknada za bezgotovinske naloge platnog prometa za biznis kartice</purpose>
+                <purposecode>221</purposecode>
+                <curdef>RSD</curdef>
+                <payeerefnumber>168CHGR22346004W,DV_TID_</payeerefnumber>
+                <trnplace>005168 Vračar, Kneza Miloša 23</trnplace>
+                <dtuser>2022-12-12T00:00:00</dtuser>
+                <dtavail>2022-12-12T00:00:00</dtavail>
+                <refnumber>1919299063,12-DEC-22</refnumber>
+                <refmodel />
+                <payeerefmodel />
+                <urgency>INT</urgency>
+                <fee />
+                <statusinfo>
+                    <code>80</code>
+                    <timeposted>2022-12-12T00:00:00</timeposted>
+                </statusinfo>
+            </stmttrn>
+            <stmttrn>
+                <trntype>ibank.payment.pp3</trntype>
+                <fitid>168CHGR22346004X(6478289936)</fitid>
+                <trnuid />
+                <benefit>debit</benefit>
+                <payeeinfo>
+                    <name>Banca Intesa AD Beograd</name>
+                    <city>Beograd</city>
+                </payeeinfo>
+                <payeeaccountinfo>
+                    <acctid>160-0000000090824-77</acctid>
+                    <bankid>160</bankid>
+                    <bankname>Banca Intesa ad Beograd</bankname>
+                </payeeaccountinfo>
+                <dtposted>2022-12-12T00:00:00</dtposted>
+                <trnamt>39.00</trnamt>
+                <purpose>Naknada za bezgotovinske naloge platnog prometa za biznis kartice</purpose>
+                <purposecode>221</purposecode>
+                <curdef>RSD</curdef>
+                <payeerefnumber>168CHGR22346004X,MS05470</payeerefnumber>
+                <trnplace>005168 Vračar, Kneza Miloša 23</trnplace>
+                <dtuser>2022-12-12T00:00:00</dtuser>
+                <dtavail>2022-12-12T00:00:00</dtavail>
+                <refnumber>1921475962,12-DEC-22</refnumber>
+                <refmodel />
+                <payeerefmodel />
+                <urgency>INT</urgency>
+                <fee />
+                <statusinfo>
+                    <code>80</code>
+                    <timeposted>2022-12-12T00:00:00</timeposted>
+                </statusinfo>
+            </stmttrn>
+            <stmttrn>
+                <trntype>ibank.payment.pp3</trntype>
+                <fitid>168NPAR223431710(6478289891)</fitid>
+                <trnuid />
+                <benefit>debit</benefit>
+                <payeeinfo>
+                    <name>Banca Intesa AD Beograd</name>
+                    <city>Beograd</city>
+                </payeeinfo>
+                <payeeaccountinfo>
+                    <acctid>160-0000000090824-77</acctid>
+                    <bankid>160</bankid>
+                    <bankname>Banca Intesa ad Beograd</bankname>
+                </payeeaccountinfo>
+                <dtposted>2022-12-12T00:00:00</dtposted>
+                <trnamt>3599.86</trnamt>
+                <purpose>NIKOLA MAKSIMOVIĆ,debitna kartica EX9281VEB0124931080,MP547 ORGANIC SVETOGORS,BEOGRAD,RS</purpose>
+                <purposecode>284</purposecode>
+                <curdef>RSD</curdef>
+                <payeerefnumber>168NPAR223431710,MS05470</payeerefnumber>
+                <trnplace>005168 Vračar, Kneza Miloša 23</trnplace>
+                <dtuser>2022-12-12T00:00:00</dtuser>
+                <dtavail>2022-12-12T00:00:00</dtavail>
+                <refnumber>1921475962,12-DEC-22</refnumber>
+                <refmodel />
+                <payeerefmodel />
+                <urgency>INT</urgency>
+                <fee />
+                <statusinfo>
+                    <code>80</code>
+                    <timeposted>2022-12-12T00:00:00</timeposted>
+                </statusinfo>
+            </stmttrn>
+            <stmttrn>
+                <trntype>ibank.payment.pp3</trntype>
+                <fitid>168NPAR223434573(6478290056)</fitid>
+                <trnuid />
+                <benefit>debit</benefit>
+                <payeeinfo>
+                    <name>Banca Intesa AD Beograd</name>
+                    <city>Beograd</city>
+                </payeeinfo>
+                <payeeaccountinfo>
+                    <acctid>160-0000000090824-77</acctid>
+                    <bankid>160</bankid>
+                    <bankname>Banca Intesa ad Beograd</bankname>
+                </payeeaccountinfo>
+                <dtposted>2022-12-12T00:00:00</dtposted>
+                <trnamt>597.98</trnamt>
+                <purpose>NIKOLA MAKSIMOVIĆ,debitna kartica EX9281VEB0124931080,APOTEKA "KRSENKOVIC",BELGRADE,RS</purpose>
+                <purposecode>284</purposecode>
+                <curdef>RSD</curdef>
+                <payeerefnumber>168NPAR223434573,PCB0212</payeerefnumber>
+                <trnplace>005168 Vračar, Kneza Miloša 23</trnplace>
+                <dtuser>2022-12-12T00:00:00</dtuser>
+                <dtavail>2022-12-12T00:00:00</dtavail>
+                <refnumber>1921835504,12-DEC-22</refnumber>
+                <refmodel />
+                <payeerefmodel />
+                <urgency>INT</urgency>
+                <fee />
+                <statusinfo>
+                    <code>80</code>
+                    <timeposted>2022-12-12T00:00:00</timeposted>
+                </statusinfo>
+            </stmttrn>
+            <stmttrn>
+                <trntype>ibank.payment.pp3</trntype>
+                <fitid>168CHGR22346004Y(6478290029)</fitid>
+                <trnuid />
+                <benefit>debit</benefit>
+                <payeeinfo>
+                    <name>Banca Intesa AD Beograd</name>
+                    <city>Beograd</city>
+                </payeeinfo>
+                <payeeaccountinfo>
+                    <acctid>160-0000000090824-77</acctid>
+                    <bankid>160</bankid>
+                    <bankname>Banca Intesa ad Beograd</bankname>
+                </payeeaccountinfo>
+                <dtposted>2022-12-12T00:00:00</dtposted>
+                <trnamt>39.00</trnamt>
+                <purpose>Naknada za bezgotovinske naloge platnog prometa za biznis kartice</purpose>
+                <purposecode>221</purposecode>
+                <curdef>RSD</curdef>
+                <payeerefnumber>168CHGR22346004Y,NIS6480</payeerefnumber>
+                <trnplace>005168 Vračar, Kneza Miloša 23</trnplace>
+                <dtuser>2022-12-12T00:00:00</dtuser>
+                <dtavail>2022-12-12T00:00:00</dtavail>
+                <refnumber>1921758220,12-DEC-22</refnumber>
+                <refmodel />
+                <payeerefmodel />
+                <urgency>INT</urgency>
+                <fee />
+                <statusinfo>
+                    <code>80</code>
+                    <timeposted>2022-12-12T00:00:00</timeposted>
+                </statusinfo>
+            </stmttrn>
+            <stmttrn>
+                <trntype>ibank.payment.pp3</trntype>
+                <fitid>168CHGR22346004Z(6478290113)</fitid>
+                <trnuid />
+                <benefit>debit</benefit>
+                <payeeinfo>
+                    <name>Banca Intesa AD Beograd</name>
+                    <city>Beograd</city>
+                </payeeinfo>
+                <payeeaccountinfo>
+                    <acctid>160-0000000090824-77</acctid>
+                    <bankid>160</bankid>
+                    <bankname>Banca Intesa ad Beograd</bankname>
+                </payeeaccountinfo>
+                <dtposted>2022-12-12T00:00:00</dtposted>
+                <trnamt>39.00</trnamt>
+                <purpose>Naknada za bezgotovinske naloge platnog prometa za biznis kartice</purpose>
+                <purposecode>221</purposecode>
+                <curdef>RSD</curdef>
+                <payeerefnumber>168CHGR22346004Z,PCB0212</payeerefnumber>
+                <trnplace>005168 Vračar, Kneza Miloša 23</trnplace>
+                <dtuser>2022-12-12T00:00:00</dtuser>
+                <dtavail>2022-12-12T00:00:00</dtavail>
+                <refnumber>1921835504,12-DEC-22</refnumber>
+                <refmodel />
+                <payeerefmodel />
+                <urgency>INT</urgency>
+                <fee />
+                <statusinfo>
+                    <code>80</code>
+                    <timeposted>2022-12-12T00:00:00</timeposted>
+                </statusinfo>
+            </stmttrn>
+            <stmttrn>
+                <trntype>ibank.payment.pp3</trntype>
+                <fitid>168NPAR223405110(6478289808)</fitid>
+                <trnuid />
+                <benefit>debit</benefit>
+                <payeeinfo>
+                    <name>Banca Intesa AD Beograd</name>
+                    <city>Beograd</city>
+                </payeeinfo>
+                <payeeaccountinfo>
+                    <acctid>160-0000000090824-77</acctid>
+                    <bankid>160</bankid>
+                    <bankname>Banca Intesa ad Beograd</bankname>
+                </payeeaccountinfo>
+                <dtposted>2022-12-12T00:00:00</dtposted>
+                <trnamt>70590.00</trnamt>
+                <purpose>IGOR ISAILOVIĆ,debitna kartica EX9281DIB0124121985,LANGOUSTE FINE DININ,BEOGRAD (PALI,RS</purpose>
+                <purposecode>284</purposecode>
+                <curdef>RSD</curdef>
+                <payeerefnumber>168NPAR223405110,DV_TID_</payeerefnumber>
+                <trnplace>005168 Vračar, Kneza Miloša 23</trnplace>
+                <dtuser>2022-12-12T00:00:00</dtuser>
+                <dtavail>2022-12-12T00:00:00</dtavail>
+                <refnumber>1919299063,12-DEC-22</refnumber>
+                <refmodel />
+                <payeerefmodel />
+                <urgency>INT</urgency>
+                <fee />
+                <statusinfo>
+                    <code>80</code>
+                    <timeposted>2022-12-12T00:00:00</timeposted>
+                </statusinfo>
+            </stmttrn>
+            <stmttrn>
+                <trntype>ibank.payment.pp3</trntype>
+                <fitid>168NPAR223433794(6478290008)</fitid>
+                <trnuid />
+                <benefit>debit</benefit>
+                <payeeinfo>
+                    <name>Banca Intesa AD Beograd</name>
+                    <city>Beograd</city>
+                </payeeinfo>
+                <payeeaccountinfo>
+                    <acctid>160-0000000090824-77</acctid>
+                    <bankid>160</bankid>
+                    <bankname>Banca Intesa ad Beograd</bankname>
+                </payeeaccountinfo>
+                <dtposted>2022-12-12T00:00:00</dtposted>
+                <trnamt>8029.85</trnamt>
+                <purpose>SANJA STOJANOVIĆ,debitna kartica EX9281VEB0096886221,NIS PETROL,BEOGRAD,RS</purpose>
+                <purposecode>284</purposecode>
+                <curdef>RSD</curdef>
+                <payeerefnumber>168NPAR223433794,NIS6480</payeerefnumber>
+                <trnplace>005168 Vračar, Kneza Miloša 23</trnplace>
+                <dtuser>2022-12-12T00:00:00</dtuser>
+                <dtavail>2022-12-12T00:00:00</dtavail>
+                <refnumber>1921758220,12-DEC-22</refnumber>
+                <refmodel />
+                <payeerefmodel />
+                <urgency>INT</urgency>
+                <fee />
+                <statusinfo>
+                    <code>80</code>
+                    <timeposted>2022-12-12T00:00:00</timeposted>
+                </statusinfo>
+            </stmttrn>
+            <stmttrn>
+                <trntype>ibank.payment.pp3</trntype>
+                <fitid>000DOPR223462E4Z(6478745210)</fitid>
+                <trnuid />
+                <benefit>credit</benefit>
+                <payeeinfo>
+                    <name>INTERFAST DOO BEOGRAD</name>
+                    <city>OVČANSKI PUT 32,OVČA</city>
+                </payeeinfo>
+                <payeeaccountinfo>
+                    <acctid>265-1630310005839-58</acctid>
+                </payeeaccountinfo>
+                <dtposted>2022-12-12T00:00:00</dtposted>
+                <trnamt>211180.53</trnamt>
+                <purpose>PROMET ROBE I USLUGA FINALNAPOTROŠNJA [5395223460340860]</purpose>
+                <purposecode>221</purposecode>
+                <curdef>RSD</curdef>
+                <payeerefnumber>489-612</payeerefnumber>
+                <trnplace>0000 BEOGRAD</trnplace>
+                <dtuser>2022-12-12T00:00:00</dtuser>
+                <dtavail>2022-12-12T00:00:00</dtavail>
+                <refnumber />
+                <refmodel />
+                <payeerefmodel />
+                <urgency>ACH</urgency>
+                <fee />
+                <statusinfo>
+                    <code>80</code>
+                    <timeposted>2022-12-12T00:00:00</timeposted>
+                </statusinfo>
+            </stmttrn>
+            <stmttrn>
+                <trntype>ibank.payment.pp3</trntype>
+                <fitid>955PLBE223460YCY(6480053245)</fitid>
+                <trnuid />
+                <benefit>debit</benefit>
+                <payeeinfo>
+                    <name>PC Centar doo</name>
+                    <city>Beograd</city>
+                </payeeinfo>
+                <payeeaccountinfo>
+                    <acctid>220-0000000072129-15</acctid>
+                </payeeaccountinfo>
+                <dtposted>2022-12-12T00:00:00</dtposted>
+                <trnamt>108000.00</trnamt>
+                <purpose>Promet robe i usluga - finalna potrosnja</purpose>
+                <purposecode>221</purposecode>
+                <curdef>RSD</curdef>
+                <payeerefnumber>22-01AP-007564</payeerefnumber>
+                <trnplace>999905 OfficeBanking</trnplace>
+                <dtuser>2022-12-12T00:00:00</dtuser>
+                <dtavail>2022-12-12T00:00:00</dtavail>
+                <refnumber />
+                <refmodel />
+                <payeerefmodel />
+                <urgency>ACH</urgency>
+                <fee />
+                <statusinfo>
+                    <code>80</code>
+                    <timeposted>2022-12-12T00:00:00</timeposted>
+                </statusinfo>
+            </stmttrn>
+            <stmttrn>
+                <trntype>ibank.payment.pp3</trntype>
+                <fitid>168TNKP193130516(6484451116)</fitid>
+                <trnuid />
+                <benefit>debit</benefit>
+                <payeeinfo>
+                    <name>Banca Intesa AD Beograd</name>
+                    <city>Beograd</city>
+                </payeeinfo>
+                <payeeaccountinfo>
+                    <acctid>160-0000000090824-77</acctid>
+                    <bankid>160</bankid>
+                    <bankname>Banca Intesa ad Beograd</bankname>
+                </payeeaccountinfo>
+                <dtposted>2022-12-12T00:00:00</dtposted>
+                <trnamt>95847.99</trnamt>
+                <purpose>Platne kartice</purpose>
+                <purposecode>284</purposecode>
+                <curdef>RSD</curdef>
+                <payeerefnumber />
+                <trnplace>005168 Vračar, Kneza Miloša 23</trnplace>
+                <dtuser>2022-12-12T00:00:00</dtuser>
+                <dtavail>2022-12-12T00:00:00</dtavail>
+                <refnumber />
+                <refmodel />
+                <payeerefmodel />
+                <urgency>INT</urgency>
+                <fee />
+                <statusinfo>
+                    <code>80</code>
+                    <timeposted>2022-12-12T00:00:00</timeposted>
+                </statusinfo>
+            </stmttrn>
+        </trnlist>
+        <extension>
+            <companybankname>Banca Intesa ad Beograd</companybankname>
+            <companyname>ADVOKAT IGOR ISAILOVIĆ</companyname>
+            <companyaddress>MAKEDONSKA 44</companyaddress>
+            <companycity> BEOGRAD STARI GRAD</companycity>
+            <companypostalcode>11102</companypostalcode>
+            <PID>103614819</PID>
+        </extension>
+        <overdraftremaining />
+        <overdraftused />
+        <directdebitreserved />
+        <projectedavail>2173029.96</projectedavail>
+    </stmtrs>
+</stmtrslist>
